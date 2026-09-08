@@ -6,11 +6,11 @@ Este projeto consiste na criação da identidade visual do Banco Itaú, utilizan
 
 A atividade foi realizada como parte do curso técnico do SENAI, com o objetivo de aplicar conceitos de identidade visual e design na criação de materiais que poderão ser utilizados em trabalhos e projetos futuros do curso.
 
-## --Objetivo--
+## Objetivo
 
 Desenvolver uma identidade visual baseada na marca do Banco Itaú, seguindo elementos visuais como:
 
- ## --Cores--
+ ## Cores
  Tipografia
  Elementos gráficos
  Organização visual
@@ -18,10 +18,10 @@ Desenvolver uma identidade visual baseada na marca do Banco Itaú, seguindo elem
  Ferramenta utilizada
 Figma — criação e desenvolvimento da identidade visual.
 
-## --Contexto--
+## Contexto
 Projeto desenvolvido como atividade acadêmica do curso técnico do SENAI.
 
-## --Autora--
+## Autora
 Duda Coteco
 
 Projeto acadêmico — SENAI
